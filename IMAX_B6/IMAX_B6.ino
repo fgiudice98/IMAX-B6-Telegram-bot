@@ -16,14 +16,14 @@
 
    Except GND all pin are connected with a voltage divider like
 
-    ^ ESP32 PIN
+    v IMAX B6 LCD
     |
    [#] 15k
    [#]
     +--[##]--GND
     |  22k
     |
-    ^ IMAX B6 LCD
+    v ESP32 PIN
 
    I strongly recommend to power the ESP32 from an USB source
  *********************************************************************************/
